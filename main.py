@@ -29,7 +29,7 @@ def main():
   
   print("Maximal value is found " + str(GetMaxCount(Arr, N)) + " times.")
 
-  Arr, N = Test2:()
+  Arr, N = Test2()
   
   print("Maximal value is found " + str(GetMaxCount(Arr, N)) + " times.")
 
